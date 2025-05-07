@@ -1,7 +1,7 @@
 # 🐍 Python in 40 Days
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhseDJwMHpwNms1bG9oNncwd255a2pwYzRua2NwcGtmaHE2M25jOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9hSAIGr6dE0p4X2cPr/giphy.gif" alt="Python Snake GIF">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VjaHk1dmNuYnExcTV6dHB4N3JsbDMxNjB6OHdvdng1azR0cG5mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N18YztwmJDqNazwwn2/giphy.gif" alt="Python Snake GIF">
 </p>
 
 ![Python Learning Journey](https://img.shields.io/badge/Learning-Python-yellow?style=for-the-badge&logo=python)
