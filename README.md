@@ -65,5 +65,5 @@ python script.py
 
 > "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
 
-**Start Date:** [Current Date]
+**Start Date:** [07-May-2025]
 **Last Updated:** [Current Date]
