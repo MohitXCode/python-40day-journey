@@ -53,7 +53,7 @@ python script.py
 ```
 
 
-## 🤝 Connect With Me
+## <p align="center">🤝 Connect With Me</p>
 
 <p align="center">
   <a href="https://www.instagram.com/mohitxcode.io/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
