@@ -40,7 +40,7 @@ Welcome to my 40-day Python learning challenge! This repository documents my jou
 - [Add more as you discover helpful learning materials]
 
 ## 💻 Setup and Installation
-
+<p align="center>
 ```bash
 # Clone this repository
 git clone https://github.com/MohitXCode/python-in-40-days.git
@@ -51,7 +51,7 @@ cd python-in-40-days/day-01
 # Run a Python script
 python script.py
 ```
-
+</p>
 
 ## <p align="center">🤝 Connect With Me</p>
 
@@ -63,7 +63,7 @@ python script.py
 
 ---
 
-> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
-
+<p align="center"> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie</p>
+<p align="center">
 **Start Date:** [07-May-2025]
-**Last Updated:** [Current Date]
+**Last Updated:** [Current Date]</p>
